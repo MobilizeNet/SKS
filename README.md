@@ -1,4 +1,4 @@
-# Salmon King Seafood - Sample Reference Applications  ![logo](https://github.com/MobilizeNet/SKS/raw/master/logosks.png "")
+# Salmon King Seafood - Sample Reference Applications  ![logo](https://raw.githubusercontent.com/MobilizeNet/SKS/master/logosks.jpg)
 
 
 We are happy to announce the release of Salmon King Seafood App commonly known as **SKS** 
