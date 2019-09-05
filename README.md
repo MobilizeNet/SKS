@@ -24,7 +24,7 @@ This repository just provides a general intro to the SKS samples.
 
 - [SKS for WinForms](https://github.com/MobilizeNet/SKSWinForms) using their flaship product [Visual Basic Upgrade Companion or VBUC](https://www.mobilize.net/visual-basic-upgrade-companion) the company Mobilize.NET](https://www.mobilize.net) upgraded **SKS** to a WinForms Desktop App, allowing **SKS** to be on a supported platform with many venues for modernization.
 
-- [SKS for WebMap](https://github.com/MobilizeNet/SKSWebMap) desktop is ok, but nowadays the company has grown so much that it is important to be able to use it on the go. So how can you take a WinForms app to a Modern Web App ?? The answer is [WebMap](https://www.mobilize.net/webmap)
+- [SKS for WebMap](https://github.com/MobilizeNet/SKSWebMap) desktop is ok, but nowadays the company has grown so much that it is important to be able to use it on the go. So how can you take a WinForms app to a Modern Web App ?? The answer is [WebMap](https://www.mobilize.net/webmap). You can see a [video walkthrough here](https://mobilize.wistia.com/medias/qblm338uvu)
 
 Coming soon:
 
