@@ -6,7 +6,7 @@ We are happy to announce the release of Salmon King Seafood App commonly known a
 ## History
 
 
-Some time ago the Brown Brothers decided to create a company dedicated to selling Seafood especially King Crab.
+Some time ago the Browne Brothers decided to create a company dedicated to selling Seafood especially King Crab.
 
 One of the brothers took some classes, read some books and using VB6 decided to create an app to keep information about customers, inventories and etc.
 
