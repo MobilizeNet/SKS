@@ -12,7 +12,7 @@ One of the brothers took some classes, read some books and using VB6 decided to 
 
 The app was a success... but time passed and VB6 is no longer a supported platform.
 
-The Brown Brothers still consider this apps as a cornerstone for their business.
+The Browne Brothers still consider this app as a cornerstone for their business.
 
 Luckily they are in the Seattle Area and the bumped with this great company called [Mobilize.NET](https://www.mobilize.net)
 
