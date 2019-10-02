@@ -26,6 +26,9 @@ This repository just provides a general intro to the SKS samples.
 
 - [SKS for WebMap](https://github.com/MobilizeNet/SKSWebMap) desktop is ok, but nowadays the company has grown so much that it is important to be able to use it on the go. So how can you take a WinForms app to a Modern Web App ?? The answer is [WebMap](https://www.mobilize.net/webmap). You can see a [video walkthrough here](https://mobilize.wistia.com/medias/qblm338uvu)
 
+- [SKS for WinForms .NET Core3](https://github.com/MobilizeNet/SKSWinFormsNetCore3) VBUC also allows you to get to .NETCore3.
+Take a look at SKS running on this new platform.
+ 
 Coming soon:
 
 - SKS WebAPI. Wow. The business keeps growing and growing. A web app is great, but now they need to expose services for B2B integration or Mobile App creation ?? The answer **ServiceMAP**
