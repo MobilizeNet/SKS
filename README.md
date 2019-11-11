@@ -28,6 +28,8 @@ This repository just provides a general intro to the SKS samples.
 
 - [SKS for WinForms .NET Core3](https://github.com/MobilizeNet/SKSWinFormsNetCore3) VBUC also allows you to get to .NETCore3.
 Take a look at SKS running on this new platform.
+
+- [SKS as as Desktop app using Electron](https://github.com/MobilizeNet/SKSElectron) allows you to leverage other technologies to use your application as a DesktopApp on Windows, Linux and Mac.
  
 Coming soon:
 
